@@ -165,6 +165,7 @@ A product with minimum set of features to attract early users and validate the i
 We're going to give you this keyboard that has a few cool features, it can play music, record what you played, lights flashes as you hit the keys and it you can put in any time of other noises you want. You'll need to tell us which feature you like the most from the keyboard and tell us if there's anything you think we can add to make the keyboard even cooler. 
 
 ### What is the hardest problem you have solved so far?
+Not able to answer this question. It was hard trying get this website working at the start, the spacings was just too big and the paragraph was not aligned and it took me a while and finally found the code for it and got it working the way I want it to be.
 
 
 ### What is pair programming?
