@@ -1,8 +1,8 @@
 # [Click Me](https://nlkx.github.io/nini.github.io/)
 
-## [Reflective Journal](https://nlkx.github.io/nini.github.io/generic.html)
+## Reflective Journal
 
-## Week 1:
+## [Week 1:](https://nlkx.github.io/nini.github.io/generic.html)
 
 ### What is Scratch?
 Scratch is a visual programming language that we learnt on our first week of lesson to create our own interactive stories, games and animation.  
