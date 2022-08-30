@@ -82,7 +82,7 @@ This week lab session we had to create the tallest tower using only spaghetti st
 
 Roman was telling us that kindergarden kids would ace this and CEOs will fail. Cause kids are simple, they are told what to do and they just do it, they don't complicate things. Where as CEOs have alot of input and when you get alot of inputs at once - they can clash. Maybe I should try this with my son at home. 
 
-## [Questions from Roman](https://nlkx.github.io/nini.github.io/elements.html)
+## [Questions from Roman. Ask Me](https://nlkx.github.io/nini.github.io/elements.html)
 
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
 Sure did.. during class I will take a moment to look out the window, seeing what's happening around down there while I'm up on the 14th floor. That's why I like to sit next to the window. I can stare out to the sky and look at the clouds. On the very first day of class, I saw a girl walking around barefeet with a blanket wrapped around her.. very strange.. a person approached her and seem to be helping her call someone and then they walked into a blindspot where I can no longer see them. I have a habit of clicking my fingers so.. and yes I did stretch. 
