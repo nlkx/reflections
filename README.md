@@ -1,4 +1,4 @@
-# [Nicolle Lim](https://nlkx.github.io/nini.github.io/)
+# [Nicolle's Website](https://nlkx.github.io/nini.github.io/)
 
 ## Week 1:
 
