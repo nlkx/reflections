@@ -3,7 +3,7 @@ I got the site template from [HTML5up.net](https://html5up.net/) and then I twea
 
 ## Reflective Journal
 
-## [Week 1:](https://nlkx.github.io/nini.github.io/generic.html)
+## [Weekly Reflections:](https://nlkx.github.io/nini.github.io/generic.html)
 
 ## [Questions from Roman. Ask Me](https://nlkx.github.io/nini.github.io/elements.html)
 
